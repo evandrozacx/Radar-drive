@@ -1,0 +1,6 @@
+{
+  "name": "Radar Driver",
+  "description": "Assistente em tempo real com leitura de chamadas Uber e 99, balão flutuante com semáforo, voz de navegação pt-BR e fechamento financeiro diário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

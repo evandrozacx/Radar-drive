@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radar Driver</string>
+    <string name="accessibility_service_label">Radar Driver — Leitura de Corridas</string>
+    <string name="accessibility_service_description">Lê automaticamente o valor (R$), distância até o embarque + corrida e tempo estimado nos cartões de chamada da Uber e da 99 para exibir o balão flutuante com semáforo e falar a recomendação.</string>
+    <string name="notification_channel_name">Radar Flutuante</string>
+    <string name="notification_channel_desc">Mantém o balão flutuante e o monitoramento rápido ativos durante seu turno.</string>
+    <string name="nav_dashboard">Painel</string>
+    <string name="nav_radar">Radar &amp; Teste</string>
+    <string name="nav_settings">Ajustes</string>
+</resources>
